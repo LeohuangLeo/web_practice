@@ -1,2 +1,2 @@
 # web_practice
-## Final Homework for node.js 全端開發課程
+## Final Project for node.js 全端開發課程
